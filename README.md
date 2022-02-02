@@ -3,14 +3,12 @@
 <p>I'm Vishal Padia</a></p>
 <hr>
 
-<p>A bit about me🧑‍🎓:</p>
-<p>Currently Second-year undergrad in Cyber-Security</p>
-<p>I like learning Data-Science and ML</p>
-<p>And not a gifted coder but I work my way out of a problem </p>
-<p>I really love Anime and Webseries</p>
-<div>
-  <img src="https://tenor.com/view/coding-gif-18657810" width="600" height="300"/>
-</div>
+<p>:man_technologist:A bit about me:</p>
+<ul>
+  <li>Currently Second-year undergrad in Cyber-Security <img src="https://tenor.com/btOEm.gif" width="30"></li>
+  <li>I like learning Data-Science and ML</li>
+  <li>And not a gifted coder but I work my way out of a problem </li>
+  <li>I really love Anime and Webseries <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspoilerguy.com%2Fwp-content%2Fuploads%2F2020%2F10%2FRent-A-Girlfriend-Episode-12.jpg&f=1&nofb=1" width="30"</li>
 
 
 <hr>
@@ -31,6 +29,12 @@
 
 ### Metrics 📈 :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Padia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+### If you read all this:
+ <div>
+  <img src="https://tenor.com/tPMD.gif" width="600" height="300"/>
+</div>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Padia)](https://github.com/anuraghazra/github-readme-stats)-->
