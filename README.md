@@ -3,7 +3,7 @@
 <p>I'm <a href="https://www.linkedin.com/in/vishal-padia/">Vishal Padia</a></p>
 <hr>
 
-###📫 How to reach me: 
+<p>📫 How to reach me:</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/vishal-padia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
