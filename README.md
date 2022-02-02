@@ -1,9 +1,9 @@
 ### Hi World 👋
-
+<hr>
 <p>I'm <a href="https://www.linkedin.com/in/vishal-padia/">Vishal Padia</a></p>
 <hr>
 
-##Find Me 😇
+###📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/vishal-padia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,8 +11,11 @@
   <a href="https://twitter.com/ItsVishalPadia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <!--<img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/> -->
+
 </div>
+<!--<div>
+<img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
+</div>-->
 <hr>
 
 ### :fire: Metrics :
