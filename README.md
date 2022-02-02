@@ -9,8 +9,13 @@
   <a href="https://twitter.com/ItsVishalPadia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <!--<img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/> -->
 </div>
-<img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Padia
+
+
 <!--
 **Vishal-Padia/Vishal-Padia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
