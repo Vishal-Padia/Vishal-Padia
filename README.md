@@ -2,15 +2,12 @@
 <hr>
 <p>I'm Vishal Padia</a></p>
 <hr>
-
 <p>:man_technologist:A bit about me:</p>
 <ul>
   <li>Currently Second-year undergrad in Cyber-Security<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
   <li>I like learning Data-Science and ML</li>
   <li>And not a gifted coder but I work my way out of a problem </li>
   <li>I really love Anime and Webseries</li>
-
-
 <hr>
 <p>📫 How to reach me:</p>
 <div id="badges">
@@ -20,11 +17,10 @@
   <a href="https://twitter.com/ItsVishalPadia">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-
-</div>
-<!--<div>
-<img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
-</div>-->
+  </div>
+  <!--<div>
+    <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
+  </div>-->
 <hr>
 
 ### Metrics 📈 :
