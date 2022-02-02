@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+  <!-- Profile Views-->
   <!--<div>
     <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
   </div>-->
@@ -27,7 +28,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Padia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-
+<!-- Language Stats-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Padia)](https://github.com/anuraghazra/github-readme-stats)-->
 
