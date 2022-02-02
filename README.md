@@ -1,7 +1,7 @@
 ### Hi World 👋
 
 <p>I'm <a href="https://www.linkedin.com/in/vishal-padia/">Vishal Padia</a></p>
-<br>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/vishal-padia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
   </a>
   <!--<img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/> -->
 </div>
-<br>
+
 ### :fire: Metrics :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Padia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
