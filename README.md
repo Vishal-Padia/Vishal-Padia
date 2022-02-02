@@ -3,6 +3,17 @@
 <p>I'm Vishal Padia</a></p>
 <hr>
 
+<p>A bit about me🧑‍🎓:</p>
+<p>Currently Second-year undergrad in Cyber-Security</p>
+<p>I like learning Data-Science and ML</p>
+<p>And not a gifted coder but I work my way out of a problem </p>
+<p>I really love Anime and Webseries</p>
+<div>
+  <img src="https://tenor.com/view/coding-gif-18657810"
+</div>
+
+
+<hr>
 <p>📫 How to reach me:</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/vishal-padia/">
