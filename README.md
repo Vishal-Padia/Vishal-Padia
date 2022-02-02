@@ -9,7 +9,7 @@
 <p>And not a gifted coder but I work my way out of a problem </p>
 <p>I really love Anime and Webseries</p>
 <div>
-  <img src="https://tenor.com/view/coding-gif-18657810"
+  <img src="https://tenor.com/view/coding-gif-18657810" width="600" height="300"/>
 </div>
 
 
