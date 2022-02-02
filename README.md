@@ -1,6 +1,6 @@
 ### Hi World 👋
 
-<p>I'm</p> <a href="https://www.linkedin.com/in/vishal-padia/">Vishal Padia</a>
+<p>I'm <a href="https://www.linkedin.com/in/vishal-padia/">Vishal Padia</a></p>
 
 <!--
 **Vishal-Padia/Vishal-Padia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
