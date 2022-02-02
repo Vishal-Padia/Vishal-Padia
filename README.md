@@ -8,7 +8,7 @@
   <li>Currently Second-year undergrad in Cyber-Security <img src="https://tenor.com/btOEm.gif" width="30"></li>
   <li>I like learning Data-Science and ML</li>
   <li>And not a gifted coder but I work my way out of a problem </li>
-  <li>I really love Anime and Webseries <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fspoilerguy.com%2Fwp-content%2Fuploads%2F2020%2F10%2FRent-A-Girlfriend-Episode-12.jpg&f=1&nofb=1" width="30"</li>
+  <li>I really love Anime and Webseries</li>
 
 
 <hr>
@@ -33,9 +33,8 @@
 
 ### If you read all this:
  <div>
-  <img src="https://tenor.com/tPMD.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/theoffice-episode-12-the-office-tv-T9JtEyoJ43gY4wLOqW" width="600" height="300"/>
 </div>
-
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Padia)](https://github.com/anuraghazra/github-readme-stats)-->
 
