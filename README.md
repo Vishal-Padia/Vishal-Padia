@@ -1,6 +1,6 @@
 ### Hi World 👋
 <hr>
-<p>I'm <a href="https://www.linkedin.com/in/vishal-padia/">Vishal Padia</a></p>
+<p>I'm Vishal Padia</a></p>
 <hr>
 
 <p>📫 How to reach me:</p>
