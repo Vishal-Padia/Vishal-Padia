@@ -5,7 +5,7 @@
 
 <p>:man_technologist:A bit about me:</p>
 <ul>
-  <li>Currently Second-year undergrad in Cyber-Security <img src="https://tenor.com/btOEm.gif" width="30"></li>
+  <li>Currently Second-year undergrad in Cyber-Security<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
   <li>I like learning Data-Science and ML</li>
   <li>And not a gifted coder but I work my way out of a problem </li>
   <li>I really love Anime and Webseries</li>
@@ -31,10 +31,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Padia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-### If you read all this:
- <div>
-  <img src="https://giphy.com/gifs/theoffice-episode-12-the-office-tv-T9JtEyoJ43gY4wLOqW" width="600" height="300"/>
-</div>
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Padia)](https://github.com/anuraghazra/github-readme-stats)-->
 
