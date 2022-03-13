@@ -19,9 +19,9 @@
   </a>
   </div>
   <!-- Profile Views-->
-  <!--<div>
+  <div>
     <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
-  </div>-->
+  </div>
 <hr>
 
 ### Metrics 📈 :
