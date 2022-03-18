@@ -9,6 +9,7 @@
   <li>I like learning Data-Science and ML</li>
   <li>And not a gifted coder but I work my way out of a problem </li>
   <li>I really love Anime and Webseries</li>
+  <li>Currently learning Machine Learning and Deep Learning </li>
 <hr>
 <p>📫 How to reach me:</p>
 <div id="badges">
