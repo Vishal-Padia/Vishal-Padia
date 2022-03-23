@@ -8,7 +8,6 @@
   <li>Did many rooms on <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a>-A platform to learn different aspects of Security Domain</li>
   <li>I like learning Data-Science and ML</li>
   <li>And not a gifted coder but I work my way out of a problem </li>
-  <li>I really love Anime and Webseries</li>
   <li>Currently learning Machine Learning and Deep Learning </li>
 <hr>
 <p>📫 How to reach me:</p>
