@@ -4,7 +4,7 @@
 <hr>
 <p>:man_technologist:A bit about me:</p>
 <ul>
-  <li>Currently Second-year undergrad in Cyber-Security<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
+  <li>Currently Third-year undergrad in Cyber-Security<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></li>
   <li>Did many rooms on <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a>-A platform to learn different aspects of Security Domain</li>
   <li>I like learning Data-Science and ML</li>
   <li>And not a gifted coder but I work my way out of a problem </li>
