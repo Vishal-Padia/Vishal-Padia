@@ -3,7 +3,7 @@
 <p>I'm Vishal Padia</a></p>
 <hr>
 <p>:man_technologist:A bit about me: </p>
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Cyber Security Engineering Undergrad'24
+  - 🎓 Cybersecurity Engineering Undergrad'24
   - Did many rooms on <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a> - A platform to learn different aspects of Security Domain
   - I like learning Data-Science and ML
   - 🤝🏻I’m looking to collaborate on Python and ML related Projects
