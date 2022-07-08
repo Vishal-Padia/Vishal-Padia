@@ -2,6 +2,7 @@
 <hr>
 <p>I'm Vishal Padia</a></p>
 ## Code, Binge Repeat
+[]: # Language: markdown
   - 🎓 Cybersecurity Engineering Undergrad'24
   - Did many rooms on <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a> - A platform to learn different aspects of Security Domain
   - I like learning Data-Science and ML
@@ -9,6 +10,7 @@
   - And not a gifted coder but I work my way out of a problem 
   - </> Coder by the day, Binge watcher by the night. 
   - Currently learning Machine Learning and Deep Learning
+  
    
 <p>📫 How to reach me:</p>
 <div id="badges">
