@@ -1,10 +1,12 @@
 ### Hi World 👋
 <hr>
 <p>I'm Vishal Padia</a></p>
+
  <!-- Profile Views-->
   <div>
     <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
   </div>
+  
 ## Code, Binge Repeat
   - 🎓 Cybersecurity Engineering Undergrad'24
   - Did many rooms on <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a> - A platform to learn different aspects of Security Domain
