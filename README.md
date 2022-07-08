@@ -46,9 +46,9 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
   </div>
-
+<!--
   ![Metrics](https://metrics.lecoq.io/Vishal-Padia?template=classic&base.activity=0&base.community=0&base.repositories=0&languages=1&stars=1&activity=1&achievements=1&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=7&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=8&config.timezone=Asia%2FCalcutta) 
-
+-->
 <!-- Language Stats-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Padia)](https://github.com/anuraghazra/github-readme-stats)-->
