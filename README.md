@@ -4,7 +4,7 @@
 
 ## Code, Binge Repeat
   - 🎓 Cybersecurity Engineering Undergrad'24
-  - Did many rooms on <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a> - A platform to learn different aspects of Security Domain
+  - I am in Top 1% of <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a>
   - I like learning Data-Science and ML
   - 🤝🏻I’m looking to collaborate on Python and ML related Projects
   - And not a gifted coder but I work my way out of a problem 
