@@ -10,11 +10,10 @@
 ## Code, Binge Repeat
   - 🎓 Cybersecurity Engineering Undergrad'24
   - I am in Top 1% of <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a>
-  - I like learning Data-Science and ML
   - 🤝🏻I’m looking to collaborate on Python and ML related Projects
   - And not a gifted coder but I work my way out of a problem 
   - </> Coder by the day, Binge watcher by the night. 
-  - Currently learning Machine Learning and Deep Learning
+  - Currently learning: Machine Learning, Data Science and Web development(Django).
 
 <p>📫 How to reach me:</p>
 <div id="badges">
