@@ -1,51 +1,74 @@
-### Hello There👋
+<h1>Hello There👋</h1>
 <hr>
-<p>I'm Vishal Padia</a></p>
+
+<h1 align="center">I'm Vishal Padia</a></h1>
+<h3>I talk about Machine Learning, Deep learning and Open Source Development</h3>
+
 
  <!-- Profile Views-->
   <div>
     <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
   </div>
   
-## Code, Binge Repeat
-  - 🎓 Cybersecurity Engineering Undergrad'24
-  - I am in Top 1% of <a href="https://tryhackme.com/p/TheCypher">TryHackMe</a>
-  - 🤝🏻I’m looking to collaborate on Python and ML related Projects
-  - And not a gifted coder but I work my way out of a problem 
-  - </> Coder by the day, Binge watcher by the night. 
-  - Currently learning: Machine Learning, Data Science and Web development(Django).
 
-<p>📫 How to reach me:</p>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vishal-padia/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/ItsVishalPadia">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/vishal__padia/">
-	  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+- 🎓 Cybersecurity Engineering Undergrad'24 with a knack for Machine Learning.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in Python 🐍.
+- 🤝🏻 Looking to collaborate on Python(ML & DL) projects.
+- 💬 AMA Related to Data Science, AI&ML, NLP, MLOps.
+
+<h2 align="center"><img src="https://media0.giphy.com/media/XfN8qiCOWCFg29CiGQ/200w.webp?cid=ecf05e47r3esflaqrsh3c8q6s5kket9zm3sj7wrod407n8pr&rid=200w.webp&ct=s" width="55"> Socials </h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/vishal-padia/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin">
+</a> 
+<a href="https://twitter.com/ItsVishalPadia/" target="blank">
+<img src="https://skillicons.dev/icons?i=twitter">
+</a> 
+<a href="https://instagram.com/vishal__padia/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram">
 </a>
-<a href="https://t.me/TheCypher3301">
-	<img src="https://img.shields.io/badge/TELEGRAM-4393E3.svg?&style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
+<a href="https://discordapp.com/users/476808236805390337" target="blank">
+<img src="https://skillicons.dev/icons?i=discord">
 </a>
-<a href="https://www.upwork.com/freelancers/~01a834b7a5981b34c2">
-	<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white">
+<a href="https://stackoverflow.com/users/19431946/vishal-padia" target="blank">
+<img src="https://skillicons.dev/icons?i=stackoverflow"> 
 </a>
-  </div>
-<br>
+</p>
 
-## TechStack
-  
-### Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Tools
-  ![VS Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+<h2 align="center"> Languages </h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,r,c,cpp&perline=4">
+</p>
 
-### Metrics 📈 :
+<h2 align="center">Tools </h2>
+<p align="center">
+<a href="#">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,django,flask,fastapi,gcp,aws,azure,mysql,mongodb,linux,&perline=8">
+</a>
+</p>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Vishal-Padia&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<h2 align="center">Metrics </h2>
+
+<p align="center">
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=Vishal-Padia&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0D1117&hide_border=true&show_icons=true&theme=onedark" alt="Vishal-Padia's GitHub stats" />
+</a>
+</p>
+
+<p align="center">
+<a href="#">
+<img src="https://streak-stats.demolab.com/?user=Vishal-Padia&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=onedark" alt="Vishal-Padia's streak stats" />
+</a>
+</p>
+
+<p align="center">
+<a href="#">
+
+</a>
+
+</p>
 
 <!--
   ![Metrics](https://metrics.lecoq.io/Vishal-Padia?template=classic&base.activity=0&base.community=0&base.repositories=0&languages=1&stars=1&activity=1&achievements=1&languages.ignored=html&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&activity.limit=7&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=8&config.timezone=Asia%2FCalcutta) 
