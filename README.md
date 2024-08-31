@@ -10,8 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
   </div>
   
-
-- 🎓 Cybersecurity Engineering Undergrad'24 with a knack for Machine Learning.
+- 🏢 Currently Working as a Data Scientist at PropReturns (YC S21).
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in Python 🐍.
 - 🤝🏻 Looking to collaborate on Python(ML & DL) projects.
 - 💬 AMA Related to Data Science, AI&ML, NLP, MLOps.
@@ -24,15 +23,6 @@
 <a href="https://twitter.com/ItsVishalPadia/" target="blank">
 <img src="https://skillicons.dev/icons?i=twitter">
 </a> 
-<a href="https://instagram.com/vishal__padia/" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram">
-</a>
-<a href="https://discordapp.com/users/476808236805390337" target="blank">
-<img src="https://skillicons.dev/icons?i=discord">
-</a>
-<a href="https://stackoverflow.com/users/19431946/vishal-padia" target="blank">
-<img src="https://skillicons.dev/icons?i=stackoverflow"> 
-</a>
 </p>
 
 
