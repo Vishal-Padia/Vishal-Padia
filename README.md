@@ -1,19 +1,9 @@
 <h1>Hello There👋</h1>
-<hr>
 
 <h1 align="center">I'm Vishal Padia</a></h1>
-<h3>I talk about Machine Learning, Deep learning and Open Source Development</h3>
 
-
- <!-- Profile Views-->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Vishal-Padia&style=flat-square&color=blue" alt=""/>
-  </div>
-  
-- 🏢 Currently Working as a Data Scientist at PropReturns (YC S21).
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Proficient in Python 🐍.
-- 🤝🏻 Looking to collaborate on Python(ML & DL) projects.
-- 💬 AMA Related to Data Science, AI&ML, NLP, MLOps.
+- 🏢 Currently Working as a Data Scientist at Sync.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Researching more about Mechanistic Interpretability
 
 <h2 align="center"><img src="https://media0.giphy.com/media/XfN8qiCOWCFg29CiGQ/200w.webp?cid=ecf05e47r3esflaqrsh3c8q6s5kket9zm3sj7wrod407n8pr&rid=200w.webp&ct=s" width="55"> Socials </h2>
 <p align="center">
@@ -26,19 +16,6 @@
 </p>
 
 
-<h2 align="center"> Languages </h2>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,r,c,cpp&perline=4">
-</p>
-
-<h2 align="center">Tools </h2>
-<p align="center">
-<a href="#">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,django,flask,fastapi,gcp,aws,azure,mysql,mongodb,linux,&perline=8">
-</a>
-</p>
-
-
 <h2 align="center">Metrics </h2>
 
 <p align="center">
@@ -48,16 +25,7 @@
 </p>
 
 <p align="center">
-<a href="#">
-<img src="https://streak-stats.demolab.com/?user=Vishal-Padia&stroke=ffffff&background=0D1117&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&theme=onedark" alt="Vishal-Padia's streak stats" />
-</a>
-</p>
-
-<p align="center">
-<a href="#">
-
-</a>
-
+<img src="https://camo.githubusercontent.com/31b64262d7ad72f654297702dccee96a2a075f2a507c7c85d4c64fe91fd1b908/68747470733a2f2f692e67697068792e636f6d2f6d656469612f754d67317754327830316a424f4d6b3253532f3230302e77656270"/>
 </p>
 
 <!--
