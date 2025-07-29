@@ -1,16 +1,19 @@
-## Hi there 👋
+```
+What do I do:
 
-<!--
-**Vishal-Padia/Vishal-Padia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Read research papers like novels, try to implement them and usually end up debugging existential crises instead of code.
 
-Here are some ideas to get you started:
+- Currently learning:  
+    - RL (Reinforcement Learning, or "Repeatedly Losing" depending on the day)
+    - Mech Interp (Mechanistic Interpretability, aka "Staring at neural nets until they reveal their secrets or my sanity breaks")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Future plans:  
+    - Inference optimization coming soon™  
+      (translation: preparing to spend far too many nights with CUDA headaches and PyTorch rabbit holes)
+
+- Workflow:  
+    - Zed + Vim Motions = “Power moves, but my pinky finger always hurts”
+---
+
+“If at first you don’t succeed, try reading the paper again or just blame CUDA.”
+```
