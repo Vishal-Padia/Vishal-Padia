@@ -13,7 +13,7 @@ What do I do:
 
 - Workflow:  
     - Zed + Vim Motions = “Power moves, but my pinky finger always hurts”
----
 
+Quote to live by:
 “If at first you don’t succeed, try reading the paper again or just blame CUDA.”
 ```
